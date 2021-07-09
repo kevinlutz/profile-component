@@ -64,6 +64,22 @@ const userData = [
         level: 'Professional Athlete',
         team: 'Cleveland Browns',
         image: '/images/BakerMayfield.jpeg'
+    },
+    {
+        id: uuid(),
+        playerName: 'Jared Goff',
+        sport: 'Football',
+        level: 'Professional Athlete',
+        team: 'Los Angeles Rams',
+        image: '/images/JaredGoff.jpeg'
+    },
+    {
+        id: uuid(),
+        playerName: 'Matt Ryan',
+        sport: 'Football',
+        level: 'Professional Athlete',
+        team: 'Atlanta Falcons',
+        image: '/images/MattRyan.jpg'
     }
 ]
 
